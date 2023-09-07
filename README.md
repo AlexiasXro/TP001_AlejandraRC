@@ -1,5 +1,4 @@
-# TP001_AlejandraRC
-Actividad realizadas en Java 
+ 
 # TP001_AlejandraRC
 Actividad realizadas en Java 
 Este proyecto corresponde al Trabajo Práctico TP001 de la asignatura de Programación II del Instituto de Educación Superior "Juan Mantovani".
